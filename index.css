@@ -1,0 +1,29 @@
+#display{ 
+width: 70vw;
+height: 300px; 
+position: fixed;
+margin: auto;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+}
+
+
+#numDisplay {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+
+#controls{
+    width:30vw;
+    margin: 50px auto;
+    text-align: center;
+}
